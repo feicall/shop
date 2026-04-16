@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 import { siteConfig } from '../../data/content';
 import { FlatIcon } from '../ui/Icon3D';
+import navLogo from '../../video/nav-logo.png';
 
 const footerLinks = {
   Produits: [
@@ -33,7 +34,7 @@ export default function Footer() {
           {/* Brand */}
           <div className="col-span-2 md:col-span-1">
             <div className="flex items-center gap-2 mb-4">
-              <img src="/src/video/nav-logo.png" alt="Logo" className="w-8 h-auto" />
+              <img src={navLogo} alt="Logo" className="w-8 h-auto" />
               <span className="font-black text-lg text-white">{siteConfig.brand}</span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">

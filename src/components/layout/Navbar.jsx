@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Link, useLocation } from 'react-router-dom';
 import { siteConfig } from '../../data/content';
+import navLogo from '../../video/nav-logo.png';
 
 const navLinks = [
   { label: 'Offres', href: '#offres' },
@@ -52,7 +53,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16 md:h-20">
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2 group">
-            <img src="/src/video/nav-logo.png" alt="Logo" className="w-16 md:w-20 h-auto" />
+            <img src={navLogo} alt="Logo" className="w-16 md:w-20 h-auto" />
           </Link>
 
           {/* Nav desktop */}
