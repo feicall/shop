@@ -3,7 +3,7 @@
 // =====================================================
 
 export const siteConfig = {
-  brand: "iShop Pro",
+  brand: "Chez le Camerounais",
   tagline: "Revendeur Agréé Apple",
   whatsapp: "https://wa.me/22991763236",
   facebook: "https://www.facebook.com/feicall.tokesounon.5",
@@ -104,7 +104,7 @@ export const offerContent = {
       price: "Sur demande",
       savings: "Offre classique",
       color: "gray",
-      features: [ "Super Retina HD", "Double appareil photo", "Face ID", "Puce A11 Bionic" ],
+      features: ["Super Retina HD", "Double appareil photo", "Face ID", "Puce A11 Bionic"],
     },
     {
       name: "iPhone XR",
@@ -113,7 +113,7 @@ export const offerContent = {
       price: "Sur demande",
       savings: "Gros succès",
       color: "gray",
-      features: [ "Liquid Retina LCD", "Mode Portrait 1 Caméra", "Face ID", "Puce A12 Bionic" ],
+      features: ["Liquid Retina LCD", "Mode Portrait 1 Caméra", "Face ID", "Puce A12 Bionic"],
     },
     {
       name: "iPhone XS & XS Max",
@@ -122,7 +122,7 @@ export const offerContent = {
       price: "Sur demande",
       savings: "Qualité Pro",
       color: "orange",
-      features: [ "OLED Super Retina", "Acier Inoxydable", "Face ID Rapide", "Puce A12 Bionic" ],
+      features: ["OLED Super Retina", "Acier Inoxydable", "Face ID Rapide", "Puce A12 Bionic"],
     },
     {
       name: "iPhone 11",
@@ -131,7 +131,7 @@ export const offerContent = {
       price: "Sur demande",
       savings: "Idéal Qualité/Prix",
       color: "gray",
-      features: [ "Double appareil photo Ultra Grand-Angle", "Puce A13 Bionic", "Batterie plus longue", "Mode Nuit" ],
+      features: ["Double appareil photo Ultra Grand-Angle", "Puce A13 Bionic", "Batterie plus longue", "Mode Nuit"],
     },
     {
       name: "iPhone 11 Pro & Pro Max",
@@ -140,7 +140,7 @@ export const offerContent = {
       price: "Sur demande",
       savings: "Choix de cœur",
       color: "red",
-      features: [ "Triple appareil photo", "Finition verre mat", "Puce A13 Bionic", "Écran OLED Super Retina XDR" ],
+      features: ["Triple appareil photo", "Finition verre mat", "Puce A13 Bionic", "Écran OLED Super Retina XDR"],
     },
     {
       name: "iPhone 12 mini & 12",
@@ -149,7 +149,7 @@ export const offerContent = {
       price: "Sur demande",
       savings: "Génération 5G",
       color: "gray",
-      features: [ "Nouveau Design bords plats", "Ceramic Shield", "5G Ultra rapide", "Puce A14 Bionic" ],
+      features: ["Nouveau Design bords plats", "Ceramic Shield", "5G Ultra rapide", "Puce A14 Bionic"],
     },
     {
       name: "iPhone 12 Pro & Pro Max",
@@ -158,7 +158,7 @@ export const offerContent = {
       price: "Sur demande",
       savings: "Vendu souvent",
       color: "orange",
-      features: [ "Triple objectif + LiDAR", "Prise en charge ProRAW", "Acier premium", "Puce A14 Bionic" ],
+      features: ["Triple objectif + LiDAR", "Prise en charge ProRAW", "Acier premium", "Puce A14 Bionic"],
     },
     {
       name: "iPhone 13 mini & 13",
@@ -167,7 +167,7 @@ export const offerContent = {
       price: "Sur demande",
       savings: "Super Compétitif",
       color: "gray",
-      features: [ "Notch réduit", "Mode Cinématique", "Puce A15 Bionic", "Autonomie améliorée" ],
+      features: ["Notch réduit", "Mode Cinématique", "Puce A15 Bionic", "Autonomie améliorée"],
     },
     {
       name: "iPhone 13 Pro & Pro Max",
@@ -176,7 +176,7 @@ export const offerContent = {
       price: "Sur demande",
       savings: "ProMotion 120Hz",
       color: "red",
-      features: [ "Écran ProMotion", "Macro photographie", "Batterie colossale", "Puce A15 Bionic" ],
+      features: ["Écran ProMotion", "Macro photographie", "Batterie colossale", "Puce A15 Bionic"],
     },
     {
       name: "iPhone 14 & 14 Plus",
@@ -186,7 +186,7 @@ export const offerContent = {
       savings: "Format familial",
       color: "gray",
       badge: "Apprécié",
-      features: [ "Caméra améliorée en baselumière", "Détection des accidents", "Puce A15 Bionic (5 cœurs)", "Super Autonomie (Plus)" ],
+      features: ["Caméra améliorée en baselumière", "Détection des accidents", "Puce A15 Bionic (5 cœurs)", "Super Autonomie (Plus)"],
     },
     {
       name: "iPhone 14 Pro & Pro Max",
@@ -195,7 +195,7 @@ export const offerContent = {
       price: "Sur demande",
       savings: "L'innovation",
       color: "orange",
-      features: [ "Dynamic Island", "Module principal 48 Mpx", "Écran always-on", "Puce A16 Bionic" ],
+      features: ["Dynamic Island", "Module principal 48 Mpx", "Écran always-on", "Puce A16 Bionic"],
     },
     {
       name: "iPhone 15 & 15 Plus",
@@ -204,7 +204,7 @@ export const offerContent = {
       price: "Sur demande",
       savings: "Port USB-C",
       color: "gray",
-      features: [ "Dynamic Island pour tous", "Connectivité USB-C", "Photo Haute Résolution", "Puce A16 Bionic" ],
+      features: ["Dynamic Island pour tous", "Connectivité USB-C", "Photo Haute Résolution", "Puce A16 Bionic"],
     },
     {
       name: "iPhone 15 Pro & Pro Max",
@@ -214,7 +214,7 @@ export const offerContent = {
       savings: "Titane Aérospatial",
       color: "red",
       badge: "Meilleure vente récente",
-      features: [ "Finition en Titane", "Bouton Action", "Puce A17 Pro pour les créateurs", "Zoom optique x5" ],
+      features: ["Finition en Titane", "Bouton Action", "Puce A17 Pro pour les créateurs", "Zoom optique x5"],
     },
     {
       name: "iPhone 16 & 16 Plus",
@@ -223,7 +223,7 @@ export const offerContent = {
       price: "Sur demande",
       savings: "La relève",
       color: "gray",
-      features: [ "Contrôle Photo Intelligent", "Intelligence Artificielle intégrée", "Performances accrues", "Nouveau module photo" ],
+      features: ["Contrôle Photo Intelligent", "Intelligence Artificielle intégrée", "Performances accrues", "Nouveau module photo"],
     },
     {
       name: "iPhone 16 Pro & Pro Max",
@@ -232,7 +232,7 @@ export const offerContent = {
       price: "Sur demande",
       savings: "Puissance absolue",
       color: "red",
-      features: [ "Puce nouvelle génération AI", "Capteurs Pro grand format", "Écrans plus grands et fins", "Titane premium" ],
+      features: ["Puce nouvelle génération AI", "Capteurs Pro grand format", "Écrans plus grands et fins", "Titane premium"],
     },
     {
       name: "iPhone 17 & 17 Pro Max",
@@ -241,7 +241,7 @@ export const offerContent = {
       price: "Sur demande",
       savings: "Dernier Cri",
       color: "orange",
-      features: [ "Innovations exclusives de l'année", "Ultra puissant", "Réservations ouvertes", "Premium Design" ],
+      features: ["Innovations exclusives de l'année", "Ultra puissant", "Réservations ouvertes", "Premium Design"],
     }
   ],
 };

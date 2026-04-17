@@ -34,8 +34,7 @@ export default function Footer() {
           {/* Brand */}
           <div className="col-span-2 md:col-span-1">
             <div className="flex items-center gap-2 mb-4">
-              <img src={navLogo} alt="Logo" className="w-8 h-auto" />
-              <span className="font-black text-lg text-white">{siteConfig.brand}</span>
+              <img src={navLogo} alt="Logo" className="w-16 h-auto" />
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
               Revendeur agréé Apple. L'excellence technologique accessible à tous, livrée chez vous en 24h.
@@ -81,7 +80,7 @@ export default function Footer() {
         {/* Bottom */}
         <div className="border-t border-white/5 mt-12 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-gray-500 text-xs">
-            © 2024 {siteConfig.brand}. Tous droits réservés. Revendeur officiellement agréé Apple.
+            © {new Date().getFullYear()} {siteConfig.brand}. Tous droits réservés. Revendeur officiellement agréé Apple.
           </p>
           <div className="flex items-center gap-4">
             <span className="text-gray-500 text-xs">Mentions légales</span>
